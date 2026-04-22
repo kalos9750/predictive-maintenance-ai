@@ -1,2 +1,2 @@
 # predictive-maintenance-ai
-a model capble to predict a manlfuntionamento di un componente della turbina quindi un guasto
+a model capble to predict a problem of a component of a turbin 
